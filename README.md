@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Python | SQL | Excel | Power BI | Container | Oracle Cloud | AWS**
 
-- 👨‍💻 All of my projects are available at: [github.com/mateussj12](github.com/mateussj12)
+- 👨‍💻 All of my projects are available at: [https://github.com/mateussj12](https://github.com/mateussj12)
 
 - 💬 Ask me about: **Analysis, data development and decision making.**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mateus-santos-de-jesus-9819a8186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mateus-santos-de-jesus-9819a8186" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/jesussj10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/jesussj10" height="30" width="40" /></a>
-<a href="https://discord.gg/JesusSj#1147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JesusSj#1147" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mateus-santos-de-jesus-9819a8186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateus-santos-de-jesus-9819a8186" height="30" width="40" /></a>
+<a href="https://instagram.com/jesussj10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesussj10" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/QxPMtZwG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QxPMtZwG" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
