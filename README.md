@@ -10,7 +10,6 @@
 - 📫 Como chegar até mim: **sjmateus305@gmail.com**
 
 - 📄 Conheça minhas experiências: **Tenho experiência com mineração e processamento de dados, robôs, containers, provisionamento e orquestração de máquinas físicas e virtuais.**
-- 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mateus-santos-de-jesus-9819a8186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateus-santos-de-jesus-9819a8186" height="30" width="40" /></a>
