@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateussj12&label=Profile%20views&color=0e75b6&style=flat" alt="mateussj12" /> </p>
 
-- 🌱 Atualmente estou aprendendo: **Python | SQL | Excel | Power BI | Container | Oracle Cloud | AWS | Azure| Zabbix | Grafana**
+- 🌱 Atualmente estou aprendendo: **Engenharia de Dados**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/mateussj12](https://github.com/mateussj12)
 
